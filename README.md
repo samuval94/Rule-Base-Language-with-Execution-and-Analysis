@@ -1,4 +1,4 @@
-# Features Rule-Based Language Interpreter
+# Rule-Based Language Interpreter
 
 Formal Languages and Compilers | School of Applied Sciences and Engineering – Eafit
 
