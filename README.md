@@ -293,7 +293,7 @@ Left recursion in `Cond → Cond AND Cond` was eliminated by introducing `CondRe
 
 ---
 
-###Notes
+### Notes
 
 - Keywords `rule`, `if`, `then` are lowercase; `AND` is uppercase. All are case-sensitive.
 - Identifiers consist of letters, digits, and underscores, and must start with a letter.
